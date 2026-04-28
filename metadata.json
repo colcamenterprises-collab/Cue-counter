@@ -1,0 +1,6 @@
+{
+  "name": "CueTrack: Billiards & Snooker Tracker",
+  "description": "A sleek, minimalistic scorecard and tournament timer for pool, snooker, and 9-ball. Features individual/team play, stats, and game reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
